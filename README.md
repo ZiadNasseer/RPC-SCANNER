@@ -22,7 +22,6 @@ Features
 - Multi-threaded port scanning
 - Graceful CTRL+C exit
 - Host availability detection
-- Colored banner output
 
 -------------------------------------
 
